@@ -4,7 +4,7 @@ A single-notebook project that explores machine-learning models to predict corpo
 
 ## Contents
 - `BankruptcyPredictor.ipynb` — main analysis notebook (copied from Downloads).
-- `data.csv` — expected input dataset (not included; see **Data**).
+- `data.csv` — expected input dataset (not included).
 - `requirements.txt` — Python dependencies for the notebook.
 
 ## Data
