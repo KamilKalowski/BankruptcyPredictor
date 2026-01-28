@@ -66,11 +66,11 @@ pip install -r requirements.txt
 jupyter notebook BankruptcyPredictor.ipynb
 ```
 
-### MIT License (suggested)
+### MIT License
 ```
 MIT License
 
-Copyright (c) 2026 <Your Name>
+Copyright (c) 2026 <Kamil Kalowski>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
